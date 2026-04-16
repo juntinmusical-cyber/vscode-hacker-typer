@@ -44,13 +44,13 @@ Hacker Typer allows you to record yourself programming, and to replay the same k
 
 While in recording mode, execute `HackerTyper: Insert Soft Stop Point` command from the command palette.
 
-When you hit a stop point while in replay mode, you need to press `ENTER` to break out of the stop point. All other keystrokes are ignored until you break out.
+When you hit a stop point while in replay mode, you need to press `ENTER` to break out# of the stop point. All other keystrokes are ignored until you break out.
 
 ## Current limitations
 
 - Only supports single file macros [#11](https://github.com/jevakallio/vscode-hacker-typer/issues/11)
 - If you make a mistake while recording, you have to start over. User experience could be wildly improved here
-- When starting from existing active editor, the document language is not restored from the macro (see [vscode#1800](https://github.com/Microsoft/vscode/issues/1800))
+- When starting cfrom existing active editor, the document language is not restored from the macro (see [vscode#1800](https://github.com/Microsoft/vscode/issues/1800))
 
 ## License
 
